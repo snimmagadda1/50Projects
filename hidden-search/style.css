@@ -44,7 +44,7 @@ body {
 }
 
 .btn:focus,
-.input:focus {
+input:focus {
   outline: none;
 }
 
@@ -53,5 +53,5 @@ body {
 }
 
 .search.active .btn {
-  transform: translateX(198px);
+  transform: translatex(198px)
 }
